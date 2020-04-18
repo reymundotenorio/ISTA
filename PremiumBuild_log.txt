@@ -1,0 +1,297 @@
+<!-- Author: Reymundo Tenorio, Date and hours: [DD]/[MM]/[AA], [hh]:[mm] P.M. -->
+
+
+
+<!-- ******************** START ISTA ******************** -->
+
+
+<!-- ---------------------------------------- START TICKET INFO ---------------------------------------- -->
+
+Email by:
+Ticket #: 2155268
+AccDID: A7A4C663TSV7SX16FVY
+TNDID: TN2N4JJ63ZYSDN7HQMN1 
+Invision link:
+https://projects.invisionapp.com/share/B5WEMKX7946#/screens
+
+Template: Premium
+Costumer name: ISTA
+
+Preview link: https://ista-cms-preprod.cbtalentnetwork.com/
+
+==================================
+Description:
+
+TN DID: TN2N4JJ63ZYSDN7HQMN1
+Link to PSD Files: https://careerbuilder-my.sharepoint.com/personal/nsimons_cb_careerbuilder_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnsimons%5Fcb%5Fcareerbuilder%5Fcom%2FDocuments%2FPSD%20Files%20%2D%20ISTA%2Ezip&parent=%2Fpersonal%2Fnsimons%5Fcb%5Fcareerbuilder%5Fcom%2FDocuments&originalPath=aHR0cHM6Ly9jYXJlZXJidWlsZGVyLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9wL25zaW1vbnNfY2IvRVNRRUh4Q3JORDFFaG9Pc3JPcmFJaXdCWDR0cVlJbUVuZjRXZmZyY1RQX1I1UT9ydGltZT04Sno4OWVUYjEwZw
+Special Instructions/Notes: Hello!
+
+This is just the homepage pre-production request.
+
+Here is the invision link: https://projects.invisionapp.com/share/B5WEMKX7946#/screens
+
+Link to PSD files above.
+
+Subdomain is TBD
+
+Thanks!
+Elisa
+
+
+<!-- ---------------------------------------- END TICKET INFO ---------------------------------------- -->
+
+
+
+<!-- ---------------------------------------- START UPDATES ---------------------------------------- -->
+
+Display name:
+ISTA
+
+Hostname:
+ista-cms-preprod.cbtalentnetwork.com
+
+Site Meta Description:
+Our team is committed to continuously cultivate, raise, and harvest each person to their highest potential. We will create a strong foundation by working together and delivering the skills and knowledge needed to meet the challenges of our industry.
+
+Homepage Meta Title:
+Jobs and Careers at ISTA
+
+Default Page Name:
+ISTA Careers
+
+Favicon:
+^media_src_favicon.png^
+
+Meta Image Media Name:
+^media_src_social-logo.png^
+
+
+#### GOOGLE DRIVE AND DROPBOX ####
+
+Google Drive (https://xxx-cms-preprod.cbtalentnetwork.com [without / at the end]):
+https://xxx-cms-preprod.cbtalentnetwork.com
+
+Google Browser Key (*.xxx-cms-preprod.cbtalentnetwork.com/* [add /* at the end]):
+*.xxx-cms-preprod.cbtalentnetwork.com/*
+
+Dropbox (https://xxx-cms-preprod.cbtalentnetwork.com [without https:// at the begin]):
+xxx-cms-preprod.cbtalentnetwork.com
+
+<!-- ---------------------------------------- END UPDATES ---------------------------------------- -->
+
+
+
+================================== START BACKUPS ===========================================
+
+Site Specific CSS Content: backup/css/specific-content.css
+
+
+================================== END BACKUPS ==============================================
+
+
+
+<!-- ---------------------------------------- START EMAIL SUBMITTER ---------------------------------------- -->
+
+Premium QA Ticket
+
+New/ Browse/ GPS Fulfillment:
+
+Title: Premium TSE QA - ISTA
+Number of Items: 1
+Request Type: Premium TSE QA
+Task Type: New Build
+AccountDID: A7A4C663TSV7SX16FVY
+Company Name: ISTA
+Preview link: https://ista-cms-preprod.cbtalentnetwork.com/
+
+***************************************************
+DESCRIPTION:
+
+Ticket #: 2155268
+Worked by: Reymundo Tenorio
+URL: https://ista-cms-preprod.cbtalentnetwork.com/
+Invision link: https://projects.invisionapp.com/share/B5WEMKX7946#/screens
+
+### Notes ###
+
+- On the mobile view, in the search box, the title "SEARCH OUR JOBS" was added in order to keep consistency with the desktop view.
+- On the mobile view, the buttons are not aligned to the center, according to the last version of the best practices, the alignment was set as is present on the desktop view.
+- On the mobile view, the title "Home Frequently Asked Questions" was aligned to the center as is present on the desktop view.
+- On the "Home Frequently Asked Questions" section, the titles under the images, the font sizes were reduced from 24px to 23px, because the title "What are the pre-qualifications?" broke in two lines.
+- On the mobile view, in the carousel, the arrows controls were added at the beginning of each item in order to have a better user experience.
+- On the mobile view, in the carousel, the second item (A place to EARN), the "Welders" info was moved at the end instead of the "Electricians", this was performed following the Bootstrap columns logic.
+- On the mobile view, in the carousel, the items were not configured with a fixed and static height because the spacing produces a non-optimized user experience; the static height was applied from 768px.
+- The Terms and Conditions link located on the Join Form was removed (Possibly still showing, check in Tank please or wait for it to render)
+- The client doesn't have a Privacy Policy link on their corporate site, for the moment the "Privacy Policy" link located on the footer and on the Join Form, is redirecting to the CB Privacy Policy (This note will be added to the Build closing notes to the submitter)
+- The TNDID TN2N4JJ63ZYSDN7HQMN1 does not have jobs at this moment (This note will be added to the Build closing notes to the submitter)
+- In order to display jobs at the JRP and JDP pages, the site in the TN_JOB plugin is using a Test TNDID TNSQ7HX69YDKJ6FCP007, as soon as the QA process finish, I will update the TN_JOB with the correct TNDID.
+
+#### Original ticket description ####
+
+Description:
+
+TN DID: TN2N4JJ63ZYSDN7HQMN1
+Link to PSD Files: https://careerbuilder-my.sharepoint.com/personal/nsimons_cb_careerbuilder_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnsimons%5Fcb%5Fcareerbuilder%5Fcom%2FDocuments%2FPSD%20Files%20%2D%20ISTA%2Ezip&parent=%2Fpersonal%2Fnsimons%5Fcb%5Fcareerbuilder%5Fcom%2FDocuments&originalPath=aHR0cHM6Ly9jYXJlZXJidWlsZGVyLW15LnNoYXJlcG9pbnQuY29tLzp1Oi9wL25zaW1vbnNfY2IvRVNRRUh4Q3JORDFFaG9Pc3JPcmFJaXdCWDR0cVlJbUVuZjRXZmZyY1RQX1I1UT9ydGltZT04Sno4OWVUYjEwZw
+Special Instructions/Notes: Hello!
+
+This is just the homepage pre-production request.
+
+Here is the invision link: https://projects.invisionapp.com/share/B5WEMKX7946#/screens
+
+Link to PSD files above.
+
+Subdomain is TBD
+
+Thanks!
+Elisa
+
+
+====================================================
+Close request
+**************
+
+Hi Elisa,
+
+The build is ready.
+
+Preview link to the premium site:
+https://ista-cms-preprod.cbtalentnetwork.com/
+
+Notes:
+- The client doesn't have a Privacy Policy link on their corporate site, for the moment the "Privacy Policy" link located on the footer and on the Join Form, is redirecting to the CB Privacy Policy.
+- The client TNDID (TN2N4JJ63ZYSDN7HQMN1) does not have jobs at this moment.
+
+If you have any questions, please let me know.
+
+Regards,
+
+Reymundo Tenorio
+Global Partner Support Team
+
+************************************************
+Company Name: ISTA
+Name of Build: Premium Build - ISTA
+Preview Link: https://ista-cms-preprod.cbtalentnetwork.com/
+************************************************
+
+<!-- ---------------------------------------- END EMAIL SUBMITTER ---------------------------------------- -->
+
+
+TEST TNDID: TNSQ7HX69YDKJ6FCP007
+
+====================================================
+QA Calendar
+************
+
+Subject: New build to add in the QA calendar
+--------------------------------------------
+
+Hi Team,
+
+ISTA
+New Build - Ticket #2155268
+X Content Pages + X Featured Pages
+
+SLA: xx/xx/xx- EOD
+I'll finish this: xx/xx/xx - EOD
+
+Invision link: https://projects.invisionapp.com/share/B5WEMKX7946#/screens
+
+Regards,
+
+====================================================
+QA Feedback
+************
+
+Subject: ISTA Feedback
+---------------------------
+
+
+Hi team,
+
+The QA feedback updates are ready.
+
+Please see attached QA feedback.
+
+https://ista-cms-preprod.cbtalentnetwork.com/
+
+Regards,
+
+
+====================================================
+SLA update
+******************
+
+Hi,
+
+This is regarding the ISTA ticket.
+
+- The correct SLA including the 1 content page is going to be on November 9th. If there are any questions/comments please do not hesitate to let me know.
+
+Regards,
+
+Reymundo Tenorio
+Global Partner Support
+
+<!-- ******************** END ISTA ******************** -->
+
+====================================================
+Premium URL Internals:
+**********************
+
+/search
+/jobsamplepage
+/join
+/browse-by-location
+/ApplyFinish/J3J30C6XBH6S8K4VXDF
+/editpreference/TMTY125789FFX7GJ8Z2H
+/unsubscribe/TMTY125789FFX7GJ8Z2H
+/wrongurl
+/privacy-policy
+/terms-and-conditions
+
+/search-widget
+
+====================================================
+Email to submitter
+******************
+
+Hi Elisa,
+
+This is regarding the ISTA ticket.
+
+The build is in the QA process, as soon as it is ready I will let you know.
+
+If you have any questions, please let me know.
+
+Regards,
+
+Reymundo Tenorio
+Global Partner Support Team
+
+===================================================
+
+Notes:
+
+- A la vista mobile del search box, se algregue el titulo SEARCH OUR JOBS para mantener consistencia
+- Los botones no los aline en mobile, segun best practices, de mantener la alineacion como esta en desktop
+- Home Frequently Asked Questions, titulo centrado en mobile siguiendo desktop
+- En Home Frequently Asked Questions, los titulos de faqs el fontzise de 24px a 23px xq What are the pre-qualifications? se quebraba en 2 lineas
+- En el carousel, en mobile las flechas se colocaron al inicio de cada item para tener una mejor experiencia de usuario
+- En el carousel, en mobile, en el segundo item (a place to earn) welders fue colocado de ultimo en vez de electricians, manteniendo la logica con respecto a las columnas de Boostrap
+- En el carousel mobile, no se dejo el alto fijo por evitar un best user experience, se aplico a partir de 768px.
+- NO HAY LINK DE PRIVACY POLICY EN EL SITIO DEL CLIENTE (CB FUE DEJADO Y SERA AGREGADO EN NOTAS AL SUBMITTER)
+- Para el TN_job estoy usando un TNDID de prueba porque el de la cuenta, no posee trabajos. lo quitare dpues de la evaluacion de QA
+
+
+- On the mobile view, in the search box, the title "SEARCH OUR JOBS" was added in order to keep consistency with the desktop view.
+- On the mobile view, the buttons are not aligned to the center, according to the last version of the best practices, the alignment was set as is present on the desktop view.
+- On the mobile view, the title "Home Frequently Asked Questions" was aligned to the center as is present on the desktop view.
+- On the "Home Frequently Asked Questions" section, the titles under the images, the font sizes were reduced from 24px to 23px, because the title "What are the pre-qualifications?" broke in two lines.
+- On the mobile view, in the carousel, the arrows controls were added at the beginning of each item in order to have a better user experience.
+- On the mobile view, in the carousel, the second item (A place to EARN), the "Welders" info was moved at the end instead of the "Electricians", this was performed following the Bootstrap columns logic.
+- On the mobile view, in the carousel, the items were not configured with a fixed and static height because the spacing produces a non-optimized user experience; the static height was applied from 768px.
+- The Terms and Conditions link located on the Join Form was removed.
+- The client doesn't have a Privacy Policy link on their corporate site, for the moment the "Privacy Policy" link located on the footer and on the Join Form, is redirecting to the CB Privacy Policy (This note will be added to the Build closing notes to the submitter)
+- The TNDID TN2N4JJ63ZYSDN7HQMN1 does not have jobs at this moment (This note will be added to the Build closing notes to the submitter)
+- In order to display jobs at the JRP and JDP pages, the site in the TN_JOB plugin is using a Test TNDID TNSQ7HX69YDKJ6FCP007, as soon as the QA process finish, I will update the TN_JOB with the correct TNDID.

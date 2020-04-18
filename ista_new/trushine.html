@@ -1,0 +1,17 @@
+<!-- FB Pixel Tracking Submit button -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script>
+  $(document).ready(function () {
+    $('form#pros button.btn.btn-cf').click(function () {
+      console.log('Click on Submit button');
+      fbq('track', 'Contact');
+    });
+
+    $('form#pros button.btn.btn-cf').css({ background: 'red' });
+  });
+
+  jQuery(document).ready(function ($) {
+    $('iframe button.btn.btn-cf').css({ background: 'blue' });
+  });
+</script>
+<!-- End FB Pixel Tracking Submit button -->
